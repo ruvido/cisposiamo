@@ -104,7 +104,7 @@ width: 100%;
 /*--- BIG SCREENS -------( larger than 500px )----------------------------*/
 
 @media (min-width: 500px) {
-    .post-content {
+    .post-content p {
     text-align: justify;
     }
     .card {
